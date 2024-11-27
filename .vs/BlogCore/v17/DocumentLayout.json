@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tumaj\\source\\repos\\BlogCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0FD2AA-E96D-4F17-BF2F-8227412118E9}|BlogCore\\BlogCore.csproj|c:\\users\\tumaj\\source\\repos\\blogcore\\blogcore\\areas\\admin\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0FD2AA-E96D-4F17-BF2F-8227412118E9}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0FD2AA-E96D-4F17-BF2F-8227412118E9}|BlogCore\\BlogCore.csproj|c:\\users\\tumaj\\source\\repos\\blogcore\\blogcore\\areas\\admin\\views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF0FD2AA-E96D-4F17-BF2F-8227412118E9}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0FD2AA-E96D-4F17-BF2F-8227412118E9}|BlogCore\\BlogCore.csproj|c:\\users\\tumaj\\source\\repos\\blogcore\\blogcore\\views\\shared\\_vistacrearvolver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF0FD2AA-E96D-4F17-BF2F-8227412118E9}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\views\\shared\\_vistacrearvolver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43070E96-CF69-4775-8E9A-FCFFA031A721}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|c:\\users\\tumaj\\source\\repos\\blogcore\\blogcore.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43070E96-CF69-4775-8E9A-FCFFA031A721}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43070E96-CF69-4775-8E9A-FCFFA031A721}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|c:\\users\\tumaj\\source\\repos\\blogcore\\blogcore.accesodatos\\data\\repository\\contenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43070E96-CF69-4775-8E9A-FCFFA031A721}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\data\\repository\\contenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43070E96-CF69-4775-8E9A-FCFFA031A721}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|c:\\users\\tumaj\\source\\repos\\blogcore\\blogcore.accesodatos\\data\\repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43070E96-CF69-4775-8E9A-FCFFA031A721}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\data\\repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43070E96-CF69-4775-8E9A-FCFFA031A721}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|c:\\users\\tumaj\\source\\repos\\blogcore\\blogcore.accesodatos\\data\\repository\\irepository\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43070E96-CF69-4775-8E9A-FCFFA031A721}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\data\\repository\\irepository\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0FD2AA-E96D-4F17-BF2F-8227412118E9}|BlogCore\\BlogCore.csproj|c:\\users\\tumaj\\source\\repos\\blogcore\\blogcore\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF0FD2AA-E96D-4F17-BF2F-8227412118E9}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0FD2AA-E96D-4F17-BF2F-8227412118E9}|BlogCore\\BlogCore.csproj|c:\\users\\tumaj\\source\\repos\\blogcore\\blogcore\\areas\\cliente\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0FD2AA-E96D-4F17-BF2F-8227412118E9}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\cliente\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0FD2AA-E96D-4F17-BF2F-8227412118E9}|BlogCore\\BlogCore.csproj|c:\\users\\tumaj\\source\\repos\\blogcore\\blogcore\\areas\\admin\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF0FD2AA-E96D-4F17-BF2F-8227412118E9}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0FD2AA-E96D-4F17-BF2F-8227412118E9}|BlogCore\\BlogCore.csproj|c:\\users\\tumaj\\source\\repos\\blogcore\\blogcore\\wwwroot\\js\\categorias.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EF0FD2AA-E96D-4F17-BF2F-8227412118E9}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\wwwroot\\js\\categorias.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0FD2AA-E96D-4F17-BF2F-8227412118E9}|BlogCore\\BlogCore.csproj|c:\\users\\tumaj\\source\\repos\\blogcore\\blogcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0FD2AA-E96D-4F17-BF2F-8227412118E9}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\tumaj\\source\\repos\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Views\\Categorias\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\tumaj\\source\\repos\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Edit.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Views\\Categorias\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T20:22:25.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\tumaj\\source\\repos\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\tumaj\\source\\repos\\BlogCore\\BlogCore\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T20:13:18.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICategoriarepository.cs",
+              "DocumentMoniker": "C:\\Users\\tumaj\\source\\repos\\BlogCore\\BlogCore.AccesoDatos\\Data\\Repository\\IRepository\\ICategoriarepository.cs",
+              "RelativeDocumentMoniker": "BlogCore.AccesoDatos\\Data\\Repository\\IRepository\\ICategoriarepository.cs",
+              "ToolTip": "C:\\Users\\tumaj\\source\\repos\\BlogCore\\BlogCore.AccesoDatos\\Data\\Repository\\IRepository\\ICategoriarepository.cs",
+              "RelativeToolTip": "BlogCore.AccesoDatos\\Data\\Repository\\IRepository\\ICategoriarepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:12:27.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tumaj\\source\\repos\\BlogCore\\BlogCore.AccesoDatos\\Data\\Repository\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "BlogCore.AccesoDatos\\Data\\Repository\\CategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\tumaj\\source\\repos\\BlogCore\\BlogCore.AccesoDatos\\Data\\Repository\\CategoriaRepository.cs",
+              "RelativeToolTip": "BlogCore.AccesoDatos\\Data\\Repository\\CategoriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:11:04.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\tumaj\\source\\repos\\BlogCore\\BlogCore\\Areas\\Admin\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\tumaj\\source\\repos\\BlogCore\\BlogCore\\Areas\\Admin\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwD8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:35:56.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_VistaCrearVolver.cshtml",
+              "DocumentMoniker": "C:\\Users\\tumaj\\source\\repos\\BlogCore\\BlogCore\\Views\\Shared\\_VistaCrearVolver.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Views\\Shared\\_VistaCrearVolver.cshtml",
+              "ToolTip": "C:\\Users\\tumaj\\source\\repos\\BlogCore\\BlogCore\\Views\\Shared\\_VistaCrearVolver.cshtml",
+              "RelativeToolTip": "BlogCore\\Views\\Shared\\_VistaCrearVolver.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T18:14:23.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContenedorTrabajo.cs",
+              "DocumentMoniker": "C:\\Users\\tumaj\\source\\repos\\BlogCore\\BlogCore.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "RelativeDocumentMoniker": "BlogCore.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "ToolTip": "C:\\Users\\tumaj\\source\\repos\\BlogCore\\BlogCore.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "RelativeToolTip": "BlogCore.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:19:12.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tumaj\\source\\repos\\BlogCore\\BlogCore.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BlogCore.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\tumaj\\source\\repos\\BlogCore\\BlogCore.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BlogCore.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:19:28.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tumaj\\source\\repos\\BlogCore\\BlogCore\\Program.cs",
+              "RelativeDocumentMoniker": "BlogCore\\Program.cs",
+              "ToolTip": "C:\\Users\\tumaj\\source\\repos\\BlogCore\\BlogCore\\Program.cs",
+              "RelativeToolTip": "BlogCore\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:31:55.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "categorias.js",
+              "DocumentMoniker": "C:\\Users\\tumaj\\source\\repos\\BlogCore\\BlogCore\\wwwroot\\js\\categorias.js",
+              "RelativeDocumentMoniker": "BlogCore\\wwwroot\\js\\categorias.js",
+              "ToolTip": "C:\\Users\\tumaj\\source\\repos\\BlogCore\\BlogCore\\wwwroot\\js\\categorias.js",
+              "RelativeToolTip": "BlogCore\\wwwroot\\js\\categorias.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-26T20:09:09.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tumaj\\source\\repos\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Views\\Categorias\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tumaj\\source\\repos\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Index.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Views\\Categorias\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T23:43:42.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tumaj\\source\\repos\\BlogCore\\BlogCore\\Areas\\Cliente\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Cliente\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tumaj\\source\\repos\\BlogCore\\BlogCore\\Areas\\Cliente\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BlogCore\\Areas\\Cliente\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:33:55.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
